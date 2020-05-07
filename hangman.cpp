@@ -1,7 +1,6 @@
 /*
 	Name: Hangman game!
 	Student Name: Nicholas Smith
-	Date: 14/04/19 14:19
 	Description: Program that reads categories and words from a file and ask the user to enter a category to guess a word from the selected category.
 				 Displays the hangman design to the console everytime a letter is guessed incorrectly.
 	Still need to provide comments in this program! :(
