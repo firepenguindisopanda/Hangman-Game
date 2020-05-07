@@ -1,5 +1,3 @@
-# hello-world
-A new beginning to code 
-I am a computer scientist.
-Interested in Human an A.Is.
-I like java.
+# Hangman program
+This program makes use of a text file to randomly choose a word from a user specified category.
+The text file contains the categories and the words.
